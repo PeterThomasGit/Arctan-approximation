@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 17 19:59:58 2019
-
-@author: Pete
-"""
 
 # -*- coding: utf-8 -*-
 """
